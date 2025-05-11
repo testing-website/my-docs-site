@@ -1,0 +1,22 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: cd74a9b9-72e6-4b8d-948a-ddc06053befb
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/testing-website/my-docs-site
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: index.md
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
+  nav:
+    - title: Docs
+      url: https://testing-site.netlify.app/docs
+    - title: Blog
+      url: https://testing-site.netlify.app/blog
