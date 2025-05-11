@@ -17,6 +17,6 @@ site:
   #   logo: site_logo.png
   nav:
     - title: Docs
-      url: https://testing-splat.netlify.app/docs
+      url: https://testing-splat.netlify.app/docs/
     - title: Blog
-      url: https://testing-splat.netlify.app/blog
+      url: https://testing-splat.netlify.app/blog/
