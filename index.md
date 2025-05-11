@@ -1,12 +1,10 @@
 ---
-title: Landing page
+title: Docs
 site:
   hide_outline: false
   hide_toc: false
-  hide_title_block: false
+  hide_title_block: true
 ---
-
-+++ { "kind": "justified"}
 
 # Docs
 
