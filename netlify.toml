@@ -3,3 +3,9 @@
   command = "python -m pip install --upgrade pip && pip install -r requirements.txt && jupyter-book build --html"
   environment = { PYTHON_VERSION = "3.13" }
   publish = "_build/html"
+
+[[redirects]]
+from = "/*"
+to = "https://testing-splat.netlify.app/docs/:splat"
+status = 200
+force = false
