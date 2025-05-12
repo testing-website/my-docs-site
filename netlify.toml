@@ -5,7 +5,7 @@
   publish = "_build/html"
 
 [[redirects]]
-from = "/*"
+from = "https://my-docs-splat.netlify.app/*"
 to = "https://testing-splat.netlify.app/docs/:splat"
 status = 200
 force = false
